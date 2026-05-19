@@ -2,7 +2,7 @@
 I'm Solina, your friendly neighborhood magical girl.
 
 ## Contact Me
-* Discord: @beangalsolina
+* Discord: <a href="https://discord.com/users/718214144444072007">@beangalsolina</a>
 	* *DON'T* send me a friend request, just DM me. I will see it.
 * Email: <a href="mailto:bunny@tkbunny.net">bunny@tkbunny.net</a>
 	* This isn't the best way to contact me, as I don't check it as often as I should.
